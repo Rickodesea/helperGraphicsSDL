@@ -1,0 +1,83 @@
+# VSCode
+.vscode/
+
+# Data Files
+*.log
+*.sav
+*.dmp
+*.tmp
+*.bak
+
+# Compressed Files
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.zip
+
+# Libre Writer and Other Document forms
+*.odt
+*.doc
+*.rtf
+*.docx
+*.docm
+*.dotx
+*.dotm
+*.docb
+*.xlsx
+*.xlsm
+*.xltx
+*.xltm
+*.pdf
+*.tex
+*.wks
+*.wps
+*.wpd
+
+# Exclude all output
+output/
+
+# Prerequisites
+*.d
+*.pch
+
+# Object files
+*.ko
+*.elf
+
+# Shared objects (inc. Windows DLLs)
+*.dylib
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.64
+*.apk
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
